@@ -21,9 +21,14 @@
     {"name":"buttonPlay","order":1,"path":"objects/buttonPlay/buttonPlay.yy",},
     {"name":"conceptTextPage","order":2,"path":"objects/conceptTextPage/conceptTextPage.yy",},
     {"name":"conceptToStatsButton","order":3,"path":"objects/conceptToStatsButton/conceptToStatsButton.yy",},
+<<<<<<< Updated upstream
     {"name":"fallTitle","order":12,"path":"objects/fallTitle/fallTitle.yy",},
     {"name":"leaf","order":7,"path":"objects/leaf/leaf.yy",},
     {"name":"rolloverButton","order":17,"path":"objects/rolloverButton/rolloverButton.yy",},
+=======
+    {"name":"fallTitle","order":13,"path":"objects/fallTitle/fallTitle.yy",},
+    {"name":"leaf","order":7,"path":"objects/leaf/leaf.yy",},
+>>>>>>> Stashed changes
     {"name":"seasonParent","order":11,"path":"objects/seasonParent/seasonParent.yy",},
     {"name":"smileyToggle","order":11,"path":"objects/smileyToggle/smileyToggle.yy",},
     {"name":"snow","order":8,"path":"objects/snow/snow.yy",},
@@ -42,10 +47,15 @@
     {"name":"stats","order":8,"path":"rooms/stats/stats.yy",},
     {"name":"summer","order":7,"path":"rooms/summer/summer.yy",},
     {"name":"winter","order":6,"path":"rooms/winter/winter.yy",},
+<<<<<<< Updated upstream
     {"name":"bg_fall","order":13,"path":"sprites/bg_fall/bg_fall.yy",},
     {"name":"bg_title","order":15,"path":"sprites/bg_title/bg_title.yy",},
     {"name":"bg_winter","order":14,"path":"sprites/bg_winter/bg_winter.yy",},
     {"name":"emptySprite","order":12,"path":"sprites/emptySprite/emptySprite.yy",},
+=======
+    {"name":"emptySprite","order":12,"path":"sprites/emptySprite/emptySprite.yy",},
+    {"name":"fallBackgroundSprite","order":15,"path":"sprites/fallBackgroundSprite/fallBackgroundSprite.yy",},
+>>>>>>> Stashed changes
     {"name":"gameLogoSprite","order":4,"path":"sprites/gameLogoSprite/gameLogoSprite.yy",},
     {"name":"leafSprite","order":1,"path":"sprites/leafSprite/leafSprite.yy",},
     {"name":"logoSprite","order":3,"path":"sprites/logoSprite/logoSprite.yy",},
@@ -58,5 +68,10 @@
     {"name":"snowSprite","order":2,"path":"sprites/snowSprite/snowSprite.yy",},
     {"name":"Sprite2","order":17,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Sprite5","order":19,"path":"sprites/Sprite5/Sprite5.yy",},
+<<<<<<< Updated upstream
+=======
+    {"name":"startBackgroundSprite","order":14,"path":"sprites/startBackgroundSprite/startBackgroundSprite.yy",},
+    {"name":"winterBackgroundSprite","order":16,"path":"sprites/winterBackgroundSprite/winterBackgroundSprite.yy",},
+>>>>>>> Stashed changes
   ],
 }

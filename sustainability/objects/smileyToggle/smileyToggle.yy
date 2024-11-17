@@ -3,17 +3,28 @@
   "%Name":"smileyToggle",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+<<<<<<< Updated upstream
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+=======
+>>>>>>> Stashed changes
   ],
   "managed":true,
   "name":"smileyToggle",
   "overriddenProperties":[],
   "parent":{
+<<<<<<< Updated upstream
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":true,
+=======
+    "name":"Sprites",
+    "path":"folders/Sprites.yy",
+  },
+  "parentObjectId":null,
+  "persistent":false,
+>>>>>>> Stashed changes
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,

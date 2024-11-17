@@ -31,10 +31,17 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
+<<<<<<< Updated upstream
     "Height":720,
     "inheritRoomSettings":false,
     "persistent":false,
     "Width":1280,
+=======
+    "Height":768,
+    "inheritRoomSettings":false,
+    "persistent":false,
+    "Width":1366,
+>>>>>>> Stashed changes
   },
   "sequenceId":null,
   "views":[

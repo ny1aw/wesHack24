@@ -28,9 +28,15 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
+<<<<<<< Updated upstream
     {"$GMObjectProperty":"v1","%Name":"scaleX","filters":[],"listItems":[],"multiselect":false,"name":"scaleX","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"irandom_range(1,10)/10.0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"scaleY","filters":[],"listItems":[],"multiselect":false,"name":"scaleY","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"irandom_range(1,8)/10.0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"rotate","filters":[],"listItems":[],"multiselect":false,"name":"rotate","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"irandom_range(0,360)","varType":1,},
+=======
+    {"$GMObjectProperty":"v1","%Name":"scaleX","filters":[],"listItems":[],"multiselect":false,"name":"scaleX","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"irandom_range(1,10)","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"scaleY","filters":[],"listItems":[],"multiselect":false,"name":"scaleY","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"irandom_range(1,8)","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"rotate","filters":[],"listItems":[],"multiselect":false,"name":"rotate","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"irandom_range(1,12)","varType":1,},
+>>>>>>> Stashed changes
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

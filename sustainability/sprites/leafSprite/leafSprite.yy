@@ -2,16 +2,24 @@
   "$GMSprite":"",
   "%Name":"leafSprite",
   "bboxMode":0,
+<<<<<<< Updated upstream
   "bbox_bottom":431,
   "bbox_left":0,
   "bbox_right":454,
   "bbox_top":0,
+=======
+  "bbox_bottom":45,
+  "bbox_left":17,
+  "bbox_right":43,
+  "bbox_top":12,
+>>>>>>> Stashed changes
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
+<<<<<<< Updated upstream
     {"$GMSpriteFrame":"","%Name":"7f5503a1-b718-45c9-abeb-2767eb686c71","name":"7f5503a1-b718-45c9-abeb-2767eb686c71","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
@@ -20,6 +28,16 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"9c355e4d-578e-4da5-8f1a-e37e95294e15","blendMode":0,"displayName":"default","isLocked":false,"name":"9c355e4d-578e-4da5-8f1a-e37e95294e15","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+=======
+    {"$GMSpriteFrame":"","%Name":"5711c434-4116-4074-a669-51fc7206dcba","name":"5711c434-4116-4074-a669-51fc7206dcba","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+  ],
+  "gridX":0,
+  "gridY":0,
+  "height":64,
+  "HTile":false,
+  "layers":[
+    {"$GMImageLayer":"","%Name":"ec7d8b55-fc8b-4ebd-99d8-4c69b227627b","blendMode":0,"displayName":"default","isLocked":false,"name":"ec7d8b55-fc8b-4ebd-99d8-4c69b227627b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+>>>>>>> Stashed changes
   ],
   "name":"leafSprite",
   "nineSlice":null,
@@ -69,8 +87,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+<<<<<<< Updated upstream
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7f5503a1-b718-45c9-abeb-2767eb686c71","path":"sprites/leafSprite/leafSprite.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f928d931-40a5-49c0-9818-8ffafc280931","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+=======
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5711c434-4116-4074-a669-51fc7206dcba","path":"sprites/leafSprite/leafSprite.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"309696df-29ac-4f19-9ddb-f1ab8ba4f627","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+>>>>>>> Stashed changes
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +109,9 @@
   },
   "type":0,
   "VTile":false,
+<<<<<<< Updated upstream
   "width":455,
+=======
+  "width":64,
+>>>>>>> Stashed changes
 }

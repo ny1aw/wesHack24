@@ -10,8 +10,13 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"seasonParent","path":"objects/seasonParent/seasonParent.yy",},"propertyId":{"name":"seasonName","path":"objects/seasonParent/seasonParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Fall",},
   ],
   "parent":{
+<<<<<<< Updated upstream
     "name":"Objects",
     "path":"folders/Objects.yy",
+=======
+    "name":"Sprites",
+    "path":"folders/Sprites.yy",
+>>>>>>> Stashed changes
   },
   "parentObjectId":{
     "name":"seasonParent",

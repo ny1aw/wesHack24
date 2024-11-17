@@ -32,7 +32,14 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
+<<<<<<< Updated upstream
   "spriteId":null,
+=======
+  "spriteId":{
+    "name":"buttonSprite",
+    "path":"sprites/buttonSprite/buttonSprite.yy",
+  },
+>>>>>>> Stashed changes
   "spriteMaskId":null,
   "visible":true,
 }
